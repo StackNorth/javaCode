@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork{Vehicles.java[Truck&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork{Father.java[Son&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork{Auto.java[Auto&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork{Auto.java[Car&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=testoop/src&amp;lt;cn.bjsxt.oop{Auto.java[Auto&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork.Auto{Vehicle.java[test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork.Auto{Auto.java[Car&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=MyWork/src&amp;lt;facetoproject.mywork.Auto{Auto.java[Auto&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Generic/src&amp;lt;cn.bjsxt.generic04{Fruit.java[Apple&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=planeGame/src&amp;lt;cn.bjsxt.plane{PlaneGameFrame.java[PlaneGameFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=GUI/src&amp;lt;com.bjsxt.gui{FrameDemo.java[FrameDemo&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=GUI/src&amp;lt;com.bjsxt.gui.mouse{TextAnonyMouse.java[TextAnonyMouse&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=GUI/src&amp;lt;com.bjsxt.gui{FrameDemo02.java[FrameDemo02&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="118" key="DIALOG_X_ORIGIN"/>
+			<item value="45" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.bjsxt.thred&apos; to &apos;com.bjsxt.thread.create&apos;&#x0D;&#x0A;- Original project: &apos;Thread&apos;&#x0D;&#x0A;- Original element: &apos;Thread/src/com.bjsxt.thred&apos;&#x0D;&#x0A;- Renamed element: &apos;Thread/src/com.bjsxt.thread.create&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.bjsxt.thred&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.bjsxt.thred" name="com.bjsxt.thread.create" qualified="false" references="true" stamp="1414589735052" textual="false" version="1.0"/>
+</session>

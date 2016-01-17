@@ -1,0 +1,15 @@
+package com.bjsxt.thread.create;
+
+import java.net.Proxy;
+
+public class ProgramApp {
+	public static void main(String[] args) {
+		Program pro=new Program();
+		Thread proxy=new Thread(pro);
+		for(int i=0;i<100;i++){
+			System.out.println("Ò»±ßÁÄqq");
+		}
+		proxy.start();
+	}
+		
+}

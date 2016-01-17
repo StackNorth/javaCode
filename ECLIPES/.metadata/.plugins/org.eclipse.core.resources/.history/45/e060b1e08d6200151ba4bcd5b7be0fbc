@@ -1,0 +1,12 @@
+package cn.bjsxt.testFile;
+
+import java.awt.Color;
+import java.awt.Frame;
+
+public class Text extends Frame{
+	public static void main(String[] args) {
+		Frame f = new Frame();
+		f.setUndecorated(true);
+		f.setBackground(Color.BLUE);
+	}
+}

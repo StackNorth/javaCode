@@ -1,0 +1,23 @@
+package cn.bjsxt.testFile;
+
+import java.awt.Font;
+
+import javax.swing.JDialog;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class Text
+{
+public static void main(String[] args)
+{
+JFrame frame = new JFrame();
+frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
+frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+Font font = new Font("ËÎÌå",Font.BLOD,38);
+JLabel label = new JLabel("ÄúºÃ");
+label.setFont(font);
+frame.add(label);
+frame.setVisible(true);
+
+}
+}

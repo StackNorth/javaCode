@@ -1,0 +1,15 @@
+package cn.bjsxt.testFile;
+
+import java.awt.Color;
+import java.awt.Frame;
+
+public class Text extends Frame{
+	public static void main(String[] args) {
+		Frame f = new Frame();
+		f.setUndecorated(true);
+		f.setBackground(Color.red);
+		f.setVisible(true);
+		f.setBounds(75, 75, 260, 90);
+		Panel 
+	}
+}

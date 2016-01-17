@@ -1,0 +1,50 @@
+package com.bjsxt.thread.create;
+/**
+ * 静态代理  设计模式
+ * 1、真实角色
+ * 2、代理角色，持有真实角色的引用
+ * 3、二者实现相同的接口
+ * @author llf
+ *
+ */
+public class StaticProxy {
+	public static void main(String[] args) {
+		You you =new You();
+		WeddingCompany compang=new WeddingCompany(you);
+		you.Mary();
+	}
+}
+interface  Marry{
+	void Mary();
+}
+class You implements Marry{
+
+	@Override
+	public void Mary() {
+			System.out.println("you and i Marry");
+	}
+}
+class WeddingCompany implements Marry{
+	private Marry you;
+	public WeddingCompany(){
+	}
+	public WeddingCompany(Marry you){
+	this.you=you;
+	}
+	public void before(){
+		System.out.println("布置新房");
+		
+	}
+	public void after(){
+			System.out.println("睡觉");
+		
+	}
+	
+	public void Mary() {		
+		before();
+		you.Mary();
+		after();
+	}
+	
+	
+}
